@@ -1,7 +1,7 @@
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
 
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
+##자기소개
+안녕하세요! 인프라 개발자가 되고 싶은 김가령 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
 항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
 <br />
 <br />
@@ -23,7 +23,7 @@
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
